@@ -1,0 +1,8 @@
+{
+  "name": "Remix INFOSEKOLAH",
+  "description": "Aplikasi praktis untuk akses informasi, jadwal, dan pengumuman sekolah secara terintegrasi bagi siswa dan staf pengelola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
